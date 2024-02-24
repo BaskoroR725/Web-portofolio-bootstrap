@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap')
+
+*{
+    font-family: "DM Serif Display", serif;
+}
+
+#profile {
+    background-color: #CDFADB;
+}
+
+.icon-square{
+    border-radius: 50%;
+}
+
+#education{
+    background-color: #CDFADB;
+}
+
+#work{
+    background-color: #CDFADB;
+}
+
+#skill{
+    background-color: #CDFADB;
+}
+
+#contact :hover{
+    text-decoration-style: none;
+    
+}
+
+.about{
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+
+#aboutMe{
+    background-color: #CDFADB;
+}
